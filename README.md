@@ -1,16 +1,18 @@
-## Hi there 👋
+# Web(PHP, JS back), C++ & C# developer from 🇧🇾
 
-<!--
-**wraith-su/wraith-su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🪛 Currently work on
+https://wraith.su/
+#### and some other projects in EFT, TF2 & RUST
 
-Here are some ideas to get you started:
+## 👀 Areas of activity
+<p>💉 Web development (Frontend & Backend)</p>
+<p>🎮 Game hacking (Engine reverse, Development 'Tools')</p>
+<p>💻 Desktop apps</p>
+<p>🧑🏻‍💻 Reverse apps</p>
+<p>⚙️ Game development</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts
+💌 Email
+```
+administrator@wraith.su
+```
