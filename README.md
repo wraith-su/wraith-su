@@ -4,7 +4,7 @@
 
 ## 🪛 Currently work on
 ![Static Badge](https://img.shields.io/badge/game%20dev-warthunder-brightgreen?color=%23e53935&link=https%3A%2F%2Fwarthunder.ru%2Fru)
-![Static Badge](https://img.shields.io/badge/web%20dev-saber%20int-brightgreen?color=%23fff&link=https%3A%2F%2Fsaber.games%2F)
+![Static Badge](https://img.shields.io/badge/web%20dev-Gaijin%20Entertainment-brightgreen?color=%23fff&link=https%3A%2F%2Fwarthunder.ru%2Fru)
 ![Static Badge](https://img.shields.io/badge/game%20hacking-wraith.su-brightgreen?color=%2371deff&link=https%3A%2F%2Fwraith.su%2F)
 
 #### and some other projects in EFT, TF2 & RUST
