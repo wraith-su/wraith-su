@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=71DEFF&center=true&vCenter=true&width=520&lines=Reverse+Engineer+%26+Tool+Developer;Web+%26+Desktop+%26+Android;Based+in+Belarus+%F0%9F%87%A7%F0%9F%87%BE" />
 </p>
 
+
 ---
 
 ## 🛠️ Tech Stack
@@ -35,21 +36,24 @@
 | | Project | Stack |
 |---|---|---|
 | 🪖 | **War Thunder** @ Gaijin Entertainment | Game Dev · Web |
-| 🔧 | **[wraith.su](https://wraith.su/)** — private hacking tools | C++ · RE |
+| 🔧 | **[wraith.su](https://wraith.su/)** — private hacking tools | C++ · RE · Web |
 | 🕵️ | **Battlestate Games** — private contracts (EFT) | C++ · RE · Web |
 | 🔫 | **TF2** — private tools & cheats & web market | C++ · RE · Web |
 | ⚒️ | **RUST** — private tools & cheats | C++ · RE |
+
+![RU](https://img.shields.io/badge/RU-native-71deff?style=flat-square)
+![EN](https://img.shields.io/badge/EN-B2-71deff?style=flat-square)
 
 ---
 
 ## 🧩 Areas
 
-💉 Web Dev → Frontend & Backend (PHP, JS, no frameworks)
-🎮 Game Hacking → Engine reverse, tooling (EFT, TF2, RUST, WT)
-💻 Desktop Apps → Native C / C++ / C#
-📱 Android Apps → Kotlin / Java, native Android
-🔍 Reverse Eng. → Apps & game engines
-⚙️ Game Dev → UE4/5 · Unity · Frostbite · Dagor · Source 1/2
+- 💉 **Web Dev** → Frontend & Backend (PHP, JS, no frameworks)
+- 🎮 **Game Hacking** → Engine reverse, tooling (EFT, TF2, RUST, WT)
+- 💻 **Desktop Apps** → Native C / C++ / C#
+- 📱 **Android Apps** → Kotlin / Java, native Android
+- 🔍 **Reverse Eng.** → Apps & game engines
+- ⚙️ **Game Dev** → UE4/5 · Unity · Frostbite · Dagor · Source 1/2
 
 ---
 
