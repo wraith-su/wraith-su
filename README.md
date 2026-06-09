@@ -19,9 +19,9 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Platforms
+![Web](https://img.shields.io/badge/Web-FF6B6B?style=for-the-badge&logo=html5&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Web](https://img.shields.io/badge/Web-FF6B6B?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Game Engines
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -41,6 +41,7 @@
 | 🔫 | **TF2** — private tools & cheats & web market | C++ · RE · Web |
 | ⚒️ | **RUST** — private tools & cheats | C++ · RE |
 
+![BY](https://img.shields.io/badge/BY-native-71deff?style=flat-square)
 ![RU](https://img.shields.io/badge/RU-native-71deff?style=flat-square)
 ![EN](https://img.shields.io/badge/EN-B2-71deff?style=flat-square)
 
