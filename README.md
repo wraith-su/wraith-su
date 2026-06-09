@@ -36,8 +36,8 @@
 |---|---|---|
 | 🪖 | **War Thunder** @ Gaijin Entertainment | Game Dev · Web |
 | 🔧 | **[wraith.su](https://wraith.su/)** — private hacking tools | C++ · RE |
-| 🕵️ | **Battlestate Games** — private contracts (EFT) | C++ · RE |
-| 🔫 | **TF2** — private tools & cheats | C++ · RE |
+| 🕵️ | **Battlestate Games** — private contracts (EFT) | C++ · RE · Web |
+| 🔫 | **TF2** — private tools & cheats & web market | C++ · RE · Web |
 | ⚒️ | **RUST** — private tools & cheats | C++ · RE |
 
 ---
