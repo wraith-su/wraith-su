@@ -1,23 +1,65 @@
-# 🧑🏻‍💻 Developer from 🇧🇾
-![Static Badge](https://img.shields.io/badge/web%20dev-php%20%26%20js-brightgreen?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/actual%20dev-c%2B%2B%2C%20c%2C%20c%23%20-brightgreen?style=for-the-badge&color=%23d9a0f9)
+# 👋 Ivan Khlestakov — wraith-su
 
-## 🪛 Currently work on
-![Static Badge](https://img.shields.io/badge/game%20dev-warthunder-brightgreen?color=%23e53935&link=https%3A%2F%2Fwarthunder.ru%2Fru)
-![Static Badge](https://img.shields.io/badge/web%20dev-Gaijin%20Entertainment-brightgreen?color=%23fff&link=https%3A%2F%2Fwarthunder.ru%2Fru)
-![Static Badge](https://img.shields.io/badge/game%20hacking-wraith.su-brightgreen?color=%2371deff&link=https%3A%2F%2Fwraith.su%2F)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=71DEFF&center=true&vCenter=true&width=520&lines=Game+Hacker+%26+Reverse+Engineer;Web+%26+Desktop+%26+Android+Dev;From+Belarus+%F0%9F%87%A7%F0%9F%87%BE" />
+</p>
 
-#### and some other projects in EFT, TF2 & RUST
+---
 
-## 👀 Areas of activity
-<p>💉 Web development (Frontend & Backend)</p>
-<p>🎮 Game hacking (Engine reverse, Development 'Tools')</p>
-<p>💻 Desktop apps (Fully C/C++/C#)</p>
-<p>🧑🏻‍💻 Reverse apps (?)</p>
-<p>⚙️ Game development (UE4/5, Unity, Frostbyte, Dagor, Source 1/2)</p>
+## 🛠️ Tech Stack
 
-## Contacts
-💌 Email
-```
-administrator@wraith.su
-```
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-d9a0f9?style=for-the-badge&logo=csharp&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Platforms
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Web](https://img.shields.io/badge/Web-FF6B6B?style=for-the-badge&logo=html5&logoColor=white)
+
+### Game Engines
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+![Source](https://img.shields.io/badge/Source_1%2F2-1b2838?style=for-the-badge&logo=steam&logoColor=white)
+
+---
+
+## 🔥 Currently Working On
+
+| | Project | Stack |
+|---|---|---|
+| 🪖 | **War Thunder** @ Gaijin Entertainment | Game Dev · Web |
+| 🔧 | **[wraith.su](https://wraith.su/)** — hacking tools | C++ · Reverse |
+| 🔒 | EFT · TF2 · RUST — private projects | RE · C++ |
+
+---
+
+## 🧩 Areas
+
+💉 Web Dev → Frontend & Backend (PHP, JS, no frameworks)
+🎮 Game Hacking → Engine reverse, tooling (EFT, TF2, RUST, WT)
+💻 Desktop Apps → Native C / C++ / C#
+📱 Android Apps → Kotlin / Java, native Android
+🔍 Reverse Eng. → Apps & game engines
+⚙️ Game Dev → UE4/5 · Unity · Frostbite · Dagor · Source 1/2
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=wraith-su&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wraith-su&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+---
+
+## 📬 Contacts
+
+[![Email](https://img.shields.io/badge/administrator@wraith.su-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:administrator@wraith.su)
+[![Site](https://img.shields.io/badge/wraith.su-71deff?style=for-the-badge&logo=ghostery&logoColor=black)](https://wraith.su/)
