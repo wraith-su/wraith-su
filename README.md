@@ -1,7 +1,7 @@
 # 👋 Ivan Khlestakov — wraith-su
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=71DEFF&center=true&vCenter=true&width=520&lines=Game+Hacker+%26+Reverse+Engineer;Web+%26+Desktop+%26+Android+Dev;From+Belarus+%F0%9F%87%A7%F0%9F%87%BE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=71DEFF&center=true&vCenter=true&width=520&lines=Reverse+Engineer+%26+Tool+Developer;Web+%26+Desktop+%26+Android;Based+in+Belarus+%F0%9F%87%A7%F0%9F%87%BE" />
 </p>
 
 ---
@@ -26,6 +26,7 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![Source](https://img.shields.io/badge/Source_1%2F2-1b2838?style=for-the-badge&logo=steam&logoColor=white)
+![Dagor Engine](https://img.shields.io/badge/Dagor_Engine-e53935?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -34,8 +35,10 @@
 | | Project | Stack |
 |---|---|---|
 | 🪖 | **War Thunder** @ Gaijin Entertainment | Game Dev · Web |
-| 🔧 | **[wraith.su](https://wraith.su/)** — hacking tools | C++ · Reverse |
-| 🔒 | EFT · TF2 · RUST — private projects | RE · C++ |
+| 🔧 | **[wraith.su](https://wraith.su/)** — private hacking tools | C++ · RE |
+| 🕵️ | **Battlestate Games** — private contracts (EFT) | C++ · RE |
+| 🔫 | **TF2** — private tools & cheats | C++ · RE |
+| ⚒️ | **RUST** — private tools & cheats | C++ · RE |
 
 ---
 
@@ -53,8 +56,7 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=wraith-su&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wraith-su&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://streak-stats.demolab.com/?user=wraith-su&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
